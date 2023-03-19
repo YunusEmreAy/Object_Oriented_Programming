@@ -1,1 +1,1 @@
-# Otomasyon Detayları PDF belgesine mevcuttur.
+# Otomasyon detayları PDF belgesine mevcuttur.
