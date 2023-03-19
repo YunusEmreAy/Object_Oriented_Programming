@@ -1,1 +1,1 @@
-# Java_Project
+# Java Dili ile Yazılmış "Nesne Yönelimli Programlama" Projeleri
